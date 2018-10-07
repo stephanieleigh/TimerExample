@@ -1,6 +1,6 @@
 ﻿// Advanced C#
 // Module 07
-// Timer Example from MVA
+// Timer Example from MVA tutorial
 // Stephanie Wilson
 // October 5, 2018
 
